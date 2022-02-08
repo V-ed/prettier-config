@@ -1,0 +1,13 @@
+# Changelog
+
+## [0.1.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.0.1...prettier-config-v0.1.0) (2022-02-08)
+
+
+### Features
+
+* initial config ([55bd107](https://github.com/V-ed/prettier-config/commit/55bd107463a0390c98a5359684953e910d73822a))
+
+
+### Bug Fixes
+
+* version and changelog mismatch ([4f97692](https://github.com/V-ed/prettier-config/commit/4f976922fc8b66e459d92b9bc540e19e2b9cf59f))
