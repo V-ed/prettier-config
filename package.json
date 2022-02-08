@@ -5,12 +5,12 @@
 	"license": "MIT",
 	"repository": "V-ed/prettier-config",
 	"author": "Guillaume Marcoux",
-	"main": ".prettierrc",
+	"main": ".prettierrc.json",
 	"engines": {
 		"node": ">=14"
 	},
 	"files": [
-		".prettierrc"
+		".prettierrc.json"
 	],
 	"keywords": [
 		"prettier",
