@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.0...prettier-config-v0.1.1) (2022-02-08)
+
+
+### Bug Fixes
+
+* export json file ([3040ec7](https://github.com/V-ed/prettier-config/commit/3040ec7455eaab62f7a1a787c8681396ca1519cd))
+
 ## [0.1.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.0.1...prettier-config-v0.1.0) (2022-02-08)
 
 
