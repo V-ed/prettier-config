@@ -1,0 +1,34 @@
+{
+	"git.pullTags": false,
+	"json.schemas": [
+		{
+			"fileMatch": ["renovate.json"],
+			"url": "https://docs.renovatebot.com/renovate-schema.json"
+		}
+	],
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features",
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true
+		},
+	},
+	"[yaml]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true,
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true,
+			"source.fixAll.eslint": true
+		},
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		}
+	}
+}

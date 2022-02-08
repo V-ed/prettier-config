@@ -1,0 +1,20 @@
+{
+	"name": "@v-ed/prettier-config",
+	"version": "0.0.0",
+	"description": "Shared Prettier config for my projects",
+	"license": "MIT",
+	"repository": "V-ed/prettier-config",
+	"author": "Guillaume Marcoux",
+	"main": ".prettierrc",
+	"engines": {
+		"node": ">=14"
+	},
+	"files": [
+		".prettierrc"
+	],
+	"keywords": [
+		"prettier",
+		"config",
+		"configuration"
+	]
+}
