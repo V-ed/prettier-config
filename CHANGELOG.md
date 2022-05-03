@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.1...prettier-config-v0.1.2) (2022-05-03)
+
+
+### Dependencies
+
+* update @v-ed/eslint-config to 0.1.1 ([3a04375](https://github.com/V-ed/prettier-config/commit/3a043755a6aa9a4f93c8b2e55f598edd8314940f))
+
 ### [0.1.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.0...prettier-config-v0.1.1) (2022-02-08)
 
 
