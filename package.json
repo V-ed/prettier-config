@@ -23,6 +23,6 @@
 		]
 	},
 	"devDependencies": {
-		"@v-ed/eslint-config": "0.1.0"
+		"@v-ed/eslint-config": "0.1.1"
 	}
 }

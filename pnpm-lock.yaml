@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@v-ed/eslint-config': 0.1.0
+  '@v-ed/eslint-config': 0.1.1
 
 devDependencies:
-  '@v-ed/eslint-config': 0.1.0
+  '@v-ed/eslint-config': 0.1.1
 
 packages:
 
@@ -192,8 +192,8 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@v-ed/eslint-config/0.1.0:
-    resolution: {integrity: sha512-fJdBu15wyKKQcmSMviWN5P1byk1QVB1d4pOsyIFZQ4rOPuxRJEB7c2tjnG4/f7vvWqgkaB6owRVm52pGBy1JNQ==}
+  /@v-ed/eslint-config/0.1.1:
+    resolution: {integrity: sha512-qZqIsxH4LkiMRCxcm6G9WtFd1Iv6+JaiQkrYgaWgxxu1FajTzX79hbUBdYRNaUoc35BHYu/Sp638wFQ/dC/2sQ==}
     engines: {node: '>=14'}
     peerDependencies:
       eslint: '>= 8'
