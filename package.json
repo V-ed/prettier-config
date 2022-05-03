@@ -18,7 +18,9 @@
 		"configuration"
 	],
 	"eslintConfig": {
-		"extends": ["@v-ed/eslint-config"]
+		"extends": [
+			"@v-ed/eslint-config"
+		]
 	},
 	"devDependencies": {
 		"@v-ed/eslint-config": "0.1.0"
