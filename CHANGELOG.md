@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.1...prettier-config-v0.1.2) (2022-07-23)
+
+
+### Bug Fixes
+
+* css files should not use single quotes ([a8339ce](https://github.com/V-ed/prettier-config/commit/a8339ce6b78f269fd76b5bb813b9bfe7f31cf05d))
+
 ### [0.1.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.0...prettier-config-v0.1.1) (2022-02-08)
 
 
