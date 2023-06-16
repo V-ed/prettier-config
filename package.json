@@ -5,12 +5,12 @@
 	"license": "MIT",
 	"repository": "V-ed/prettier-config",
 	"author": "Guillaume Marcoux",
-	"main": ".prettierrc.json",
+	"main": "src/.prettierrc.cjs",
 	"engines": {
 		"node": ">=14"
 	},
 	"files": [
-		".prettierrc.json"
+		"src"
 	],
 	"keywords": [
 		"prettier",
@@ -23,6 +23,12 @@
 		]
 	},
 	"devDependencies": {
-		"@v-ed/eslint-config": "0.1.4"
+		"@v-ed/eslint-config": "0.1.6"
+	},
+	"peerDependencies": {
+		"prettier": "^2"
+	},
+	"optionalDependencies": {
+		"prettier-plugin-svelte": "^2"
 	}
 }
