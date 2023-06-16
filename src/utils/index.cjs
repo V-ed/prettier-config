@@ -1,4 +1,4 @@
-const defaultConfig = require('./.prettierrc.cjs');
+const defaultConfig = require('../.prettierrc.cjs');
 const { mergeDeep } = require('./deepmerge.cjs');
 
 /**
@@ -13,5 +13,4 @@ function defineConfig(config, baseConfig = defaultConfig) {
 
 module.exports = {
 	defineConfig,
-	defaultConfig,
 };
