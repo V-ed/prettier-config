@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.2.0...prettier-config-v0.2.1) (2023-06-16)
+
+
+### Bug Fixes
+
+* move files around to have a proper import path ([c4b8ee4](https://github.com/V-ed/prettier-config/commit/c4b8ee4725b7ebd7f584ac71fc6ad6f3e6ec4789))
+
 ## [0.2.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.2...prettier-config-v0.2.0) (2023-06-16)
 
 
