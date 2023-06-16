@@ -5,12 +5,14 @@
 	"license": "MIT",
 	"repository": "V-ed/prettier-config",
 	"author": "Guillaume Marcoux",
-	"main": "src/.prettierrc.cjs",
+	"main": ".prettierrc.cjs",
 	"engines": {
 		"node": ">=14"
 	},
 	"files": [
-		"src"
+		".prettierrc.cjs",
+		"svelte.cjs",
+		"utils"
 	],
 	"keywords": [
 		"prettier",
