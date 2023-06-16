@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.2...prettier-config-v0.2.0) (2023-06-16)
+
+
+### Features
+
+* add svelte config and add defineConfig function ([e8b8771](https://github.com/V-ed/prettier-config/commit/e8b87717a9043947eb8e75ddd8d9309d5497e2ac))
+
 ## [0.1.2](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.1.1...prettier-config-v0.1.2) (2022-07-23)
 
 
