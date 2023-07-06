@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.2.1...prettier-config-v0.3.0) (2023-07-06)
+
+
+### Features
+
+* update to prettier v3 ([5b7c3b9](https://github.com/V-ed/prettier-config/commit/5b7c3b9baf57e473205ce9d443580408e1225ef2))
+
 ## [0.2.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.2.0...prettier-config-v0.2.1) (2023-06-16)
 
 
