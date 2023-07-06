@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   prettier:
-    specifier: ^2
-    version: 2.0.0
+    specifier: ^3
+    version: 3.0.0
 
 optionalDependencies:
   prettier-plugin-svelte:
     specifier: ^2
-    version: 2.0.0(prettier@2.0.0)(svelte@3.59.1)
+    version: 2.0.0(prettier@3.0.0)(svelte@3.59.1)
 
 devDependencies:
   '@v-ed/eslint-config':
@@ -813,21 +813,21 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-svelte@2.0.0(prettier@2.0.0)(svelte@3.59.1):
+  /prettier-plugin-svelte@2.0.0(prettier@3.0.0)(svelte@3.59.1):
     resolution: {integrity: sha512-8gjoWwCoYVCGOYVQaVExsTROmy+PFQOUVUQX7HfaXfk83fvqpPs1Cnb3Ts9NAfWqMxtUYLE22EXJEbiGUYNmoA==}
     requiresBuild: true
     peerDependencies:
       prettier: ^1.16.4 || ^2.0.0
       svelte: ^3.2.0
     dependencies:
-      prettier: 2.0.0
+      prettier: 3.0.0
       svelte: 3.59.1
     dev: false
     optional: true
 
-  /prettier@2.0.0:
-    resolution: {integrity: sha512-vI55PC+GFLOVtpwr2di1mYhJF36v+kztJov8sx3AmqbfdA+2Dhozxb+3e1hTgoV9lyhnVJFF3Z8GCVeMBOS1bA==}
-    engines: {node: '>=10.13.0'}
+  /prettier@3.0.0:
+    resolution: {integrity: sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: false
 
