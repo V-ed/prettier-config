@@ -11,8 +11,8 @@ dependencies:
 
 optionalDependencies:
   prettier-plugin-svelte:
-    specifier: ^2
-    version: 2.0.0(prettier@3.0.0)(svelte@3.59.1)
+    specifier: ^3.0.0
+    version: 3.0.0(prettier@3.0.0)(svelte@3.59.1)
 
 devDependencies:
   '@v-ed/eslint-config':
@@ -339,7 +339,7 @@ packages:
     dev: true
 
   /concat-map@0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /cross-spawn@7.0.3:
@@ -813,12 +813,12 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-svelte@2.0.0(prettier@3.0.0)(svelte@3.59.1):
-    resolution: {integrity: sha512-8gjoWwCoYVCGOYVQaVExsTROmy+PFQOUVUQX7HfaXfk83fvqpPs1Cnb3Ts9NAfWqMxtUYLE22EXJEbiGUYNmoA==}
+  /prettier-plugin-svelte@3.0.0(prettier@3.0.0)(svelte@3.59.1):
+    resolution: {integrity: sha512-l3RQcPty2UBCoRh3yb9c5XCAmxkrc4BptAnbd5acO1gmSJtChOWkiEjnOvh7hvmtT4V80S8gXCOKAq8RNeIzSw==}
     requiresBuild: true
     peerDependencies:
-      prettier: ^1.16.4 || ^2.0.0
-      svelte: ^3.2.0
+      prettier: ^3.0.0
+      svelte: ^3.2.0 || ^4.0.0-next.0
     dependencies:
       prettier: 3.0.0
       svelte: 3.59.1
