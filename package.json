@@ -25,7 +25,7 @@
 		]
 	},
 	"devDependencies": {
-		"@v-ed/eslint-config": "0.1.6"
+		"@v-ed/eslint-config": "0.2.3"
 	},
 	"peerDependencies": {
 		"prettier": "^3"
