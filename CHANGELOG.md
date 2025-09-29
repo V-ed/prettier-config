@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.4.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.3.1...prettier-config-v0.4.0) (2025-09-29)
+
+
+### Features
+
+* add svelte config and add defineConfig function ([e8b8771](https://github.com/V-ed/prettier-config/commit/e8b87717a9043947eb8e75ddd8d9309d5497e2ac))
+* initial config ([55bd107](https://github.com/V-ed/prettier-config/commit/55bd107463a0390c98a5359684953e910d73822a))
+* update to prettier v3 ([5b7c3b9](https://github.com/V-ed/prettier-config/commit/5b7c3b9baf57e473205ce9d443580408e1225ef2))
+
+
+### Bug Fixes
+
+* css files should not use single quotes ([a8339ce](https://github.com/V-ed/prettier-config/commit/a8339ce6b78f269fd76b5bb813b9bfe7f31cf05d))
+* export json file ([3040ec7](https://github.com/V-ed/prettier-config/commit/3040ec7455eaab62f7a1a787c8681396ca1519cd))
+* move files around to have a proper import path ([c4b8ee4](https://github.com/V-ed/prettier-config/commit/c4b8ee4725b7ebd7f584ac71fc6ad6f3e6ec4789))
+* remove eslint devDep, creating downstream conflicts ([31cd52e](https://github.com/V-ed/prettier-config/commit/31cd52eb2b0ba78fe0137427f437ba331df9c47c))
+* version and changelog mismatch ([4f97692](https://github.com/V-ed/prettier-config/commit/4f976922fc8b66e459d92b9bc540e19e2b9cf59f))
+
 ## [0.3.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.3.0...prettier-config-v0.3.1) (2025-09-29)
 
 
