@@ -19,14 +19,6 @@
 		"config",
 		"configuration"
 	],
-	"eslintConfig": {
-		"extends": [
-			"@v-ed/eslint-config"
-		]
-	},
-	"devDependencies": {
-		"@v-ed/eslint-config": "0.2.3"
-	},
 	"peerDependencies": {
 		"prettier": "^3"
 	},
