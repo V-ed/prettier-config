@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.3.0...prettier-config-v0.3.1) (2025-09-29)
+
+
+### Bug Fixes
+
+* remove eslint devDep, creating downstream conflicts ([31cd52e](https://github.com/V-ed/prettier-config/commit/31cd52eb2b0ba78fe0137427f437ba331df9c47c))
+
 ## [0.3.0](https://github.com/V-ed/prettier-config/compare/prettier-config-v0.2.1...prettier-config-v0.3.0) (2023-07-06)
 
 
